@@ -1,0 +1,37 @@
+.f29{    
+      height: 20px;
+      font-size: 0.7rem;
+      margin-bottom: 0px;
+      width: 100%;
+    
+    }
+
+.f29span{
+    padding: 0px;
+}
+
+.f29inp{
+    text-align: right;
+}
+
+.f29num{
+    width: 30px;
+    font-weight: bold;
+    padding-left: 5px;
+}
+.f29bold{
+    font-weight: bold;
+}
+
+.f29x2{    
+    height: 40px;
+    font-size: 0.7rem;
+    margin-bottom: 0px;
+    width: 100%;
+
+  }
+.f29x2num{    
+    width: 30px;
+    font-weight: bold;
+    padding-left: 5px;
+  }

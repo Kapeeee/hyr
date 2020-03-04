@@ -1,0 +1,35 @@
+#div_tabla_doc{
+  display: none;
+}
+#inputs_pago{
+  display: none;
+}
+#ven_doc{
+  display: none;
+}
+#form_doc{
+  display: none;
+}
+#atras_emp_doc{
+  display: none;
+}
+#atras_emp_pago{
+  display: none;
+}
+#atras_emp_consulta{
+  display: none;
+}
+#impbol{
+  visibility: hidden;
+}
+#modal_ult_doc_content {
+    max-width: 80% !important;
+}
+
+@media (max-width: 800px) {
+    
+        
+        #infolog{
+        	font-size: 18px}
+}
+

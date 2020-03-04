@@ -1,0 +1,97 @@
+@media (max-width: 991px) {
+    .tit{
+        width: 50%;
+        font-size: 3rem;
+        
+    }
+    .iconosant{
+        font-size: 3rem; 
+    }
+    #f29{
+        padding: .3rem .5rem;
+    }
+    .logocel{
+        width: 73rem;
+    }
+    .infologin{
+        display: none;
+    }
+    .cerrarsesion{
+        font-size: 1.5em;
+        border-radius: 1px 1px 1px 1px;
+    }
+    .cerrarsesionbtn{
+        border-radius: 10px;
+    }
+    .menubtns{
+        font-size: 3em;
+    }
+    .titulodiv{
+        font-size: 4rem;
+    }
+    .textosdivs{
+        font-size: 4rem;
+    }
+    .cajasdivs{
+        height: 2em;
+    }
+    #contenidomodal{
+        width: 60em;
+        margin-left: -46%;
+        color:#84aeef;
+    }
+    .dataTables_length{
+        display: none;
+    }
+    input[type="search"]{
+        font-size: 1em;
+    }
+    input[type="text"]{
+        font-size: 1.5em;
+    }
+    input[type="date"]{
+        font-size: 1.5em;
+    }
+    label{
+        font-size: 1.5em;
+    }
+    .dataTables_filter > label{
+        font-size: 3em;
+        text-align: left;
+    }
+    #main_cli {
+        font-size: 2em;
+    }
+    #resiva{
+        font-size: 2em;
+    }
+    #tabla_docs_cli{
+        font-size: 2em;
+    }
+    .topheaders{
+        vertical-align: top;
+    }
+    th{
+        vertical-align: top;
+    }
+    .printer{
+        font-size: 4em;
+    }
+    #val_uf{
+        font-size: 2rem;
+        height: 3rem;
+    }
+    #reg_trib{
+        font-size: 2rem;
+        height: 3rem;
+    }
+
+  }
+
+  @media (min-width: 992px) {
+
+    .logocel{
+        width: 250px;
+        height: auto;
+    }
+  }
